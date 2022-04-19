@@ -43,8 +43,9 @@ Have always held a keen interest in computers and technology and am constantly w
     <td> 2010 </td>
     <td> A Levels - Simon Langton Grammar School for Boys
       <p><i>Biology, Drama, General Studies</i></p></td>
-    <tr>
-      <td> 2008 </td>
+  </tr>
+  <tr>
+       <td> 2008 </td>
       <td> GCSE's - Barton court grammar School
        <p><i> 11 GCSEs A* -C, Maths A, English Lit A, English Lang B, Science C</i></p>
       </td>
