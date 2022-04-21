@@ -5,8 +5,8 @@
 # Personal Summary
 Have always held a keen interest in computers and technology and am constantly working at developing my technical skills. Currently studying a BSc in computer science with the aim of developing my research, project, and coding skills.  Previous work experience has led me to gain great communication skills, both written and verbal, with the ability to adapt. I am experienced and confident in using different software’s and systems, including Microsoft products, bespoke task management systems, databases and booking systems.
 
-
 # Technical Skills
+
 <ul>
   <li>	Competent & knowledgeable with Microsoft office</li>
   <li> Competent with online CRMs and task management systems </li>
@@ -88,7 +88,7 @@ Have always held a keen interest in computers and technology and am constantly w
     </tr>
 </table>
 
- # Volunteer History
+# Volunteer History
  
  <table>
    <tr> 
@@ -99,5 +99,6 @@ Have always held a keen interest in computers and technology and am constantly w
    </tr>  
  </table>
   
-  # Hobbies & Interests 
-  I am the go-to IT / Tech support for my family when they have technical issues. I enjoy video gaming to wind down as well and spending time with my young family, making memories. I would describe myself as an amateur home cook as I enjoy cooking meals from scratch as well as eating out and trying new foods. 
+# Hobbies & Interests 
+
+I am the go-to IT / Tech support for my family when they have technical issues. I enjoy video gaming to wind down as well and spending time with my young family, making memories. I would describe myself as an amateur home cook as I enjoy cooking meals from scratch as well as eating out and trying new foods. 
