@@ -90,14 +90,9 @@ Have always held a keen interest in computers and technology and am constantly w
 
 # Volunteer History
  
- <table>
-   <tr> 
-    <td> June 2010 - Nov 2010 </td>
-    <td> Retail Store Volunteer - Bernardo's Children Charity
-      <p><i>organising donations and Cash Handling </p> </i>
-    </td>   
-   </tr>  
- </table>
+ <ul>
+  <li> <b> June 2010 - Nov 2010 </b>  Retail Store Volunteer - Bernardo's Children Charity </li> 
+ </ul>
   
 # Hobbies & Interests 
 
