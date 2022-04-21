@@ -74,12 +74,12 @@ Have always held a keen interest in computers and technology and am constantly w
     <tr>
         <td>March 2012-Nov 2017</td>
         <td>Need More Time Limited</td>
-        <td>Business Assitant, Team Leader (2015), training manager (2016)  <p><i> Call handling for multiple clients &     different businesses’, use of multiple software’s (CRMS, booking systems), creating training plans with team members, customer service.  </p> </i> </td>
+        <td>Business Assistant, Team Leader (2015), training manager (2016)  <p><i> Call handling for multiple clients &     different businesses’, use of multiple software’s (CRMS, booking systems), creating training plans with team members, customer service.  </p> </i> </td>
     </tr>
     <tr>
         <td>May 2011 - April 2012</td>
         <td>Spar Superstore, Seasalter</td>
-        <td>eneral Store Assistant  <p><i> Customer Service, cash handling, restocking  </i> </td>
+        <td>General Store Assistant  <p><i> Customer Service, cash handling, restocking  </i> </td>
     </tr>
     <tr>
         <td>Oct 2010 - March 2011 </td>
