@@ -28,61 +28,68 @@ Have always held a keen interest in computers and technology and am constantly w
 </ul>
 
 # Education / Qualifications
+
 <table>
-  <tr> 
-    <td> 2024 (ongoing) </td>
-    <td> BSc Computer Science with Foundation year - Canterbury Christchurch University
-      <p><i>2021 Foundation year – Passed (85%)</i></p></td>
-  </tr>
-  <tr>
-    <td> 2012</td>
-    <td> NVQ Level 2 Business Administration - Apprenticeship at Need More time Limited
-      <p><i>Passed with Merit</i></p> </td>
-  </tr>
-  <tr>
-    <td> 2010 </td>
-    <td> A Levels - Simon Langton Grammar School for Boys
-      <p><i>Biology, Drama, General Studies</i></p></td>
-  </tr>
-  <tr>
-       <td> 2008 </td>
-      <td> GCSE's - Barton court grammar School
-       <p><i> 11 GCSEs A* -C, Maths A, English Lit A, English Lang B, Science C</i></p>
-      </td>
-  </tr>
-</table>
+    <tr>
+        <th>Year(s)</th>
+        <th>Qualification</th>
+        <th>Institute</th>
+    </tr>
+    <tr>
+        <td>2024 (ongoing)</td>
+        <td>BSc Computer Science with Foundation year <p><i>2021 Foundation year – Passed (85%)</i></p> </td>
+        <td>Canterbury Christchurch University</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td>NVQ Level 2 Business Administration <p><i>Passed with Merit</i></p> </td>
+        <td>Apprenticeship at Need More time Limited</td>
+    </tr>
+    <tr>
+        <td>2010</td>
+        <td>A Levels -<p><i>Biology, Drama, General Studies</i></p></td>
+        <td>Simon Langton Grammar School for Boys</td>
+    </tr>
+    <tr>
+        <td>2008</td>
+        <td>GCSE's <p><i> 11 GCSEs A* -C, Maths A, English Lit A, English Lang B, Science C</i></p> </td>
+        <td>Barton Court Grammar School</td>
+    </tr>
+</table> 
      
 # Work History
- <table>
-  <tr> 
-    <td> Nov 2017 - July 202 </td>
-    <td> Administrator <b> Forward Trust - East Kent Drug & Alcohol Services, Swale </b>
-      <p><i>  Receptionist duties, Minute taking at multiple level meetings, Data processing following GDPR guidelines, use of bespoke software, Microsoft Office & wide range of administration duties.  </p> 
-      <p><b> First Aider, Health & safety appointed person </p></b></i>
-    </td>   
-  </tr>  
-  <tr> 
-    <td> March 2012-Nov 2017 </td>
-    <td> Business Assitant, Team Leader (2015), training manager (2016) <b> Need More Time Limited </b>
-      <p><i> Call handling for multiple clients & different businesses’, use of multiple software’s (CRMS, booking systems), creating training plans with team members, customer service.  </p> </i>
-    </td>   
-  </tr>  
-  <tr> 
-    <td> May 2011 - April 2012 </td>
-    <td> General Store Assistant <b> Spar Superstore </b>
-       <p><i> Customer Service, cash handling, restocking </p> </i>
-      </td>   
-  
-  </tr>  
-  <tr> 
-    <td> Oct 2010 - March 2011 </td>
-    <td> Seasonal Store Assistant <b> Toys R Us</b>
-      <p><i>   </p> </i>
-    </td>   
-  </tr>  
+
+<table>
+    <tr>
+        <th>Year(s)</th>
+        <th>Company </th>
+        <th>Job Role / Duties </th>
+    </tr>
+    <tr>
+        <td>Nov 2017 - July 2020</td>
+        <td>Forward Trust - East Kent Drug & Alcohol Services, Swale</td>
+        <td>Administrator <p><i>  Receptionist duties, Minute taking at multiple level meetings, Data processing following          GDPR guidelines, use of bespoke software, Microsoft Office & wide range of administration duties.  </p> 
+        <p><b> First Aider, Health & safety appointed person </p></b></i> </td>
+    </tr>
+    <tr>
+        <td>March 2012-Nov 2017</td>
+        <td>Need More Time Limited</td>
+        <td>Business Assitant, Team Leader (2015), training manager (2016)  <p><i> Call handling for multiple clients &     different businesses’, use of multiple software’s (CRMS, booking systems), creating training plans with team members, customer service.  </p> </i> </td>
+    </tr>
+    <tr>
+        <td>May 2011 - April 2012</td>
+        <td>Spar Superstore, Seasalter</td>
+        <td>eneral Store Assistant  <p><i> Customer Service, cash handling, restocking </p> </i> </td>
+    </tr>
+    <tr>
+        <td>Oct 2010 - March 2011 </td>
+        <td> Toys R Us </td>
+        <td>Seasonal Store Assistant</td>
+    </tr>
 </table>
+
+ # Volunteer History
  
-  # Volunteer History
  <table>
    <tr> 
     <td> June 2010 - Nov 2010 </td>
