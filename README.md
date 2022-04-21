@@ -50,10 +50,10 @@ Have always held a keen interest in computers and technology and am constantly w
        <p><i> 11 GCSEs A* -C, Maths A, English Lit A, English Lang B, Science C</i></p>
       </td>
   </tr>
-  </table>
+</table>
      
 # Work History
-  <table>
+ <table>
   <tr> 
     <td> Nov 2017 - July 202 </td>
     <td> Administrator <b> Forward Trust - East Kent Drug & Alcohol Services, Swale </b>
@@ -80,17 +80,17 @@ Have always held a keen interest in computers and technology and am constantly w
       <p><i>   </p> </i>
     </td>   
   </tr>  
-  </table>
+</table>
  
   # Volunteer History
-  <table>
-  <tr> 
+ <table>
+   <tr> 
     <td> June 2010 - Nov 2010 </td>
     <td> Retail Store Volunteer <b> Bernardo's Children Charity </b>
       <p><i>organising donations and Cash Handling </p> </i>
     </td>   
-  </tr>  
-  </table>
+   </tr>  
+ </table>
   
   # Hobbies & Interests 
   I am the go-to IT / Tech support for my family when they have technical issues. I enjoy video gaming to wind down as well and spending time with my young family, making memories. I would describe myself as an amateur home cook as I enjoy cooking meals from scratch as well as eating out and trying new foods. 
