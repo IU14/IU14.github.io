@@ -56,7 +56,37 @@ Have always held a keen interest in computers and technology and am constantly w
         <td>Barton Court Grammar School</td>
     </tr>
 </table> 
-     
+    
+# Work History
+
+<table>
+    <tr>
+        <th>Year(s)</th>
+        <th>Company </th>
+        <th>Job Role / Duties </th>
+    </tr>
+    <tr>
+        <td>Nov 2017 - July 2020</td>
+        <td>Forward Trust - East Kent Drug & Alcohol Services, Swale</td>
+        <td>Administrator <p><i>  Receptionist duties, Minute taking at multiple level meetings, Data processing following          GDPR guidelines, use of bespoke software, Microsoft Office & wide range of administration duties. 
+          <p><b> First Aider, Health & safety appointed person </b></i> </td>
+    </tr>
+    <tr>
+        <td>March 2012-Nov 2017</td>
+        <td>Need More Time Limited</td>
+        <td>Business Assitant, Team Leader (2015), training manager (2016)  <p><i> Call handling for multiple clients &     different businesses’, use of multiple software’s (CRMS, booking systems), creating training plans with team members, customer service.  </p> </i> </td>
+    </tr>
+    <tr>
+        <td>May 2011 - April 2012</td>
+        <td>Spar Superstore, Seasalter</td>
+        <td>eneral Store Assistant  <p><i> Customer Service, cash handling, restocking  </i> </td>
+    </tr>
+    <tr>
+        <td>Oct 2010 - March 2011 </td>
+        <td> Toys R Us </td>
+        <td>Seasonal Store Assistant</td>
+    </tr>
+</table>
 
 # Volunteer History
  
