@@ -68,8 +68,8 @@ Have always held a keen interest in computers and technology and am constantly w
     <tr>
         <td>Nov 2017 - July 2020</td>
         <td>Forward Trust - East Kent Drug & Alcohol Services, Swale</td>
-        <td>Administrator <p><i>  Receptionist duties, Minute taking at multiple level meetings, Data processing following          GDPR guidelines, use of bespoke software, Microsoft Office & wide range of administration duties.  </p> 
-        <p><b> First Aider, Health & safety appointed person </p></b></i> </td>
+        <td>Administrator <p><i>  Receptionist duties, Minute taking at multiple level meetings, Data processing following          GDPR guidelines, use of bespoke software, Microsoft Office & wide range of administration duties. 
+          <p><b> First Aider, Health & safety appointed person </b></i> </td>
     </tr>
     <tr>
         <td>March 2012-Nov 2017</td>
@@ -79,7 +79,7 @@ Have always held a keen interest in computers and technology and am constantly w
     <tr>
         <td>May 2011 - April 2012</td>
         <td>Spar Superstore, Seasalter</td>
-        <td>eneral Store Assistant  <p><i> Customer Service, cash handling, restocking </p> </i> </td>
+        <td>eneral Store Assistant  <p><i> Customer Service, cash handling, restocking  </i> </td>
     </tr>
     <tr>
         <td>Oct 2010 - March 2011 </td>
